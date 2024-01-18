@@ -1,0 +1,9 @@
+cidade de origem - -
+quantidade de dias maximo-- 
+numero de cidades alvo--
+nome das cidades/ quantidade de dias minimo/maximo (por linha)--
+quantidade de acomodações de cidades --
+acamodações das cidades (id, chegada, saida, cidade, valor)--
+
+Quantidade de voos -- 
+Voos ( id, saida, chegada, origem, destino, valor, tempo em minutos) --

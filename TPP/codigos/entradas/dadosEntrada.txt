@@ -1,0 +1,6 @@
+Lisbon
+16
+3
+Rome 1 4
+Paris 1 17
+London 1 17
